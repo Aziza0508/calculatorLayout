@@ -35,5 +35,5 @@ To explore the calculator layout project:
 4. Explore the responsive layout of the calculator interface.
 
 ## Screenshots
-<img width="515" alt="calculator" src="https://github.com/Aziza0508/calculatorLayout/assets/112758271/8f982cff-e6ba-40e4-8540-1b6e73655014">
-<img width="956" alt="rotatedCalculator" src="https://github.com/Aziza0508/calculatorLayout/assets/112758271/55947d24-33ce-4baa-b416-0e49c3d49de9">
+<img width="515" alt="calculator" src="https://github.com/Aziza0508/calculatorLayout/assets/112758271/4fb513fa-b35a-4a05-9333-bf3fada9c809">
+<img width="956" alt="rotatedCalculator" src="https://github.com/Aziza0508/calculatorLayout/assets/112758271/8b947133-1ba4-44b5-9d23-7fdc995ee96b">
